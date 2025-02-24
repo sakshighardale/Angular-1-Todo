@@ -8,15 +8,15 @@ This is a sample project.
 
 ### Screenshot 1
 
-![Screenshot 1](assets/Image1.png)
+![Screenshot 1](src/assets/Image1.png)
 
 ### Screenshot 2
 
-![Screenshot 2](assets/Image2.png)
+![Screenshot 2](src/assets/Image2.png)
 
 ### Screenshot 3
 
-![Screenshot 3](assets/Image3.png)
+![Screenshot 3](src/assets/Image3.png)
 
 # Todo
 
